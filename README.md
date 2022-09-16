@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Juan Diego Carmona Arredondo</h1>
-<h3 align="center">Soy un Developer creativo y apasionado de Colombia</h3>
+<h3 align="center">Soy un Developer creativo y apasionado, soy de Colombia</h3>
 
-- 💬 Ask me about **JavaScript, HTML, PHP, CSS, SCSS, ReactJS**
+- 💬 Ask me about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **diegocarmona125@gmail.com**
 
